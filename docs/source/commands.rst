@@ -1,4 +1,4 @@
-Usage
+Commmands
 =====
 
 .. _installation:
