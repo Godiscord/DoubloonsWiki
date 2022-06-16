@@ -17,5 +17,6 @@ Contents
 
 .. toctree::
 
+   features
    commands
    bts
