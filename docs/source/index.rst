@@ -6,6 +6,7 @@ This wiki is a collection of information about the bot and its features. It expl
 and how they work internally.
 
 Check out the :doc:`commands` section for information regarding the commands.
+You could also check out :doc:`bts` for Behind the Scenes stuff.
 
 .. note::
 
@@ -17,4 +18,4 @@ Contents
 .. toctree::
 
    commands
-   api
+   bts
